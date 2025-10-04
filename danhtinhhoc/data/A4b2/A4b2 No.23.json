@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "23",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的行動功能很強，衝勁一流，相當的有動力，爆發力強。而且屬下善於接受指令，ㄧ有目標，使命必達。對於需要打江山的人、開發事業版圖的人非常的好用。唯獨要注意的是，雖然屬下不會造反，動力也很強，但有時候可能會衝過頭，超過本命所設想的原先計劃，製造出問題，這方面本命要多留意，屬下過頭時要把他們拉回來。",
+      "content2": "這個星座的人，到了後運都還可以持續擴大事業，因為終其一生，屬下人才眾多，行動力強，所以本命可以自己充分發揮腦部功能，讓手腳功能留給屬下去執行，如此一來本命就會比較輕鬆，本命到老也不需要特別休息，可以繼續發展事業。",
+      "content3": "本命在男性者，太太比較忙碌奔波，也可以夫唱婦隨，幫忙先生的事業。",
+      "content4": "本命在女性者，先生的衝勁十足，但也比較有賭性，可能有大好大壞的狀況。"
+    }
+  },
+  "vn": {
+    "a": "23",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng hành động mạnh mẽ, có động lực và sức bật lớn. Họ rất giỏi trong việc tiếp nhận mệnh lệnh và hoàn thành nhiệm vụ khi có mục tiêu rõ ràng. Điều này rất thích hợp với những người muốn mở rộng lãnh thổ kinh doanh. Tuy nhiên, cần lưu ý rằng mặc dù họ không nổi loạn và rất năng động, đôi khi họ có thể hành động quá trớn, vượt quá kế hoạch ban đầu và gây ra vấn đề. Vì vậy, người có cung này cần phải chú ý khi dưới quyền quá khích và cần phải kéo họ trở lại.",
+      "content2": "Người có cung này có thể tiếp tục mở rộng kinh doanh trong suốt cuộc đời mình, nhờ vào đội ngũ có nhiều người tài năng và động lực. Điều này cho phép họ tận dụng trí óc và để mọi việc vận hành cho dưới quyền, giúp họ có cuộc sống dễ dàng hơn mà không cần nghỉ ngơi, có thể tiếp tục phát triển sự nghiệp.",
+      "content3": "Đối với người nam, vợ rất bận rộn và có thể hỗ trợ công việc của chồng.",
+      "content4": "Đối với người nữ, chồng rất nhiệt tình nhưng có thể hơi mạo hiểm, có thể gặp phải tình trạng thăng trầm lớn."
+    }
+  },
+  "sc": {
+    "a": "23",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的行动功能很强，冲劲一流，相当的有动力，爆发力强。而且属下善于接受指令，ㄧ有目标，使命必达。对于需要打江山的人、开发事业版图的人非常的好用。唯独要注意的是，虽然属下不会造反，动力也很强，但有时候可能会冲过头，超过本命所设想的原先计划，制造出问题，这方面本命要多留意，属下过头时要把他们拉回来。",
+      "content2": "这个星座的人，到了后运都还可以持续扩大事业，因为终其一生，属下人才众多，行动力强，所以本命可以自己充分发挥脑部功能，让手脚功能留给属下去执行，如此一来本命就会比较轻松，本命到老也不需要特别休息，可以继续发展事业。",
+      "content3": "本命在男性者，太太比较忙碌奔波，也可以夫唱妇随，帮忙先生的事业。",
+      "content4": "本命在女性者，先生的冲劲十足，但也比较有赌性，可能有大好大坏的状况。"
+    }
+  }
+}

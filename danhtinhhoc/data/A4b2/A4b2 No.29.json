@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "29",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的聰明度、靈活度、應變能力看似非常的高，而且也很主動積極，但其實相當的難以控制，屬下的穩定度不高，忠誠度不高，也很容易在底下暗自從事自己的事情。所以這一顆星座的人，要非常的小心，在一片和平的表面當中，可能已經有危機潛伏、有陷阱產生。",
+      "content2": "這個星座的人，對屬下不可太過放任，要透過規則與契約來管理屬下，以法律來跟屬下做出風險切割，在後運比較難以輕鬆，大都需要自己親力親為、獨立自主。",
+      "content3": "本命在男性者，太太很容易忙碌，工作多變化。",
+      "content4": "本命在女性者，先生一生的變化比較多，起伏比較大。"
+    }
+  },
+  "vn": {
+    "a": "29",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có trí thông minh, sự linh hoạt, và khả năng ứng biến tưởng chừng như rất cao, và họ cũng rất chủ động và năng nổ. Tuy nhiên, họ thực sự khó kiểm soát, không ổn định và không trung thành, dễ dàng làm việc riêng mà bạn không hay biết. Vì vậy, người thuộc cung này cần phải cực kỳ cẩn thận, dưới bề ngoài hòa bình có thể đã ẩn chứa khủng hoảng hoặc cạm bẫy.",
+      "content2": "Người thuộc cung này không nên quá tự do cho nhân viên, nên thông qua quy định và hợp đồng để quản lý, sử dụng pháp luật để phân định rõ ràng rủi ro với nhân viên, giai đoạn sau của cuộc đời họ sẽ khó có thể nhàn nhã, thường phải tự mình làm lấy, tự lập.",
+      "content3": "Nếu là nam giới, vợ thường xuyên bận rộn và công việc thay đổi thường xuyên.",
+      "content4": "Nếu là nữ giới, chồng có nhiều biến động trong đời, sự nghiệp lên xuống thất thường."
+    }
+  },
+  "sc": {
+    "a": "29",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的聪明度、灵活度、应变能力看似非常的高，而且也很主动积极，但其实相当的难以控制，属下的稳定度不高，忠诚度不高，也很容易在底下暗自从事自己的事情。所以这一颗星座的人，要非常的小心，在一片和平的表面当中，可能已经有危机潜伏、有陷阱产生。",
+      "content2": "这个星座的人，对属下不可太过放任，要透过规则与契约来管理属下，以法律来跟属下做出风险切割，在后运比较难以轻松，大都需要自己亲力亲为、独立自主。",
+      "content3": "本命在男性者，太太很容易忙碌，工作多变化。",
+      "content4": "本命在女性者，先生一生的变化比较多，起伏比较大。"
+    }
+  }
+}

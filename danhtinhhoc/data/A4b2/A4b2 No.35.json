@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "35",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下非常的穩定，自動自發、忙碌不暇，可以幫助組織守成，也帶有不錯的擴大能力，對於企業家、創業家相當的有幫助。但唯獨要注意的是，如果本命的企圖心不強，則屬下的功能難以發揮，會非常的可惜。",
+      "content2": "這個星座的人，後運要懂得充分授權，將組織建立完整的系統，賞罰的制度，讓屬下能夠充分的在組織架構中自由發揮，如此一來本命會很好運作事業，在後運都還有擴大事業的機會。",
+      "content3": "本命在男性者，太太可以接受先生開創的事業，把先生的事業守住、穩固。",
+      "content4": "本命在女性者，配偶自行創業的成功機會很高。"
+    }
+  },
+  "vn": {
+    "a": "35",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này cấp dưới rất ổn định, tự động và bận rộn, có thể giúp tổ chức giữ vững và mở rộng. Rất có ích cho doanh nhân và người khởi nghiệp. Tuy nhiên, cần lưu ý, nếu bản mệnh không có tham vọng mạnh mẽ, khả năng của cấp dưới sẽ khó được phát huy, điều này rất đáng tiếc.",
+      "content2": "Người này cần biết cách phân quyền đầy đủ, xây dựng hệ thống tổ chức và hệ thống thưởng phạt rõ ràng, cho phép cấp dưới phát huy hiệu quả trong khuôn khổ tổ chức. Làm như vậy, bản mệnh sẽ vận hành doanh nghiệp hiệu quả và có cơ hội mở rộng kinh doanh sau này.",
+      "content3": "Nếu là nam, vợ có khả năng gìn giữ và củng cố sự nghiệp mà chồng đã xây dựng.",
+      "content4": "Nếu là nữ, chồng có cơ hội cao để tự mình thành công trong việc khởi nghiệp."
+    }
+  },
+  "sc": {
+    "a": "35",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下非常的稳定，自动自发、忙碌不暇，可以帮助组织守成，也带有不错的扩大能力，对于企业家、创业家相当的有帮助。但唯独要注意的是，如果本命的企图心不强，则属下的功能难以发挥，会非常的可惜。",
+      "content2": "这个星座的人，后运要懂得充分授权，将组织建立完整的系统，赏罚的制度，让属下能够充分的在组织架构中自由发挥，如此一来本命会很好运作事业，在后运都还有扩大事业的机会。",
+      "content3": "本命在男性者，太太可以接受先生开创的事业，把先生的事业守住、稳固。",
+      "content4": "本命在女性者，配偶自行创业的成功机会很高。"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tc": {
+    "a": "7",
+    "b": "孤獨 專注 走自己的路",
+    "content": {
+      "content1": "這個星座是比較孤獨的星座，喜歡走自己的路，比較聽不進別人的意見，對於不感興趣的事情無動於衷，對於有興趣的事，就算方向不對也會勇往直前，所以擁有這個星座的人要特別注意，想要獨來獨往是沒有關係，但是有時候也需要聽聽別人的意見，會比較客觀，也減少錯誤的機會。"
+    }
+  },
+  "vn": {
+    "a": "7",
+    "b": "Cô đơn, tập trung, đi con đường riêng",
+    "content": {
+      "content1": "Cung hoàng đạo này mang tính cô đơn, thích tự mình đi con đường riêng và ít khi lắng nghe ý kiến người khác. Đối với những việc không quan tâm, họ thường thờ ơ; nhưng đối với những điều họ quan tâm, dù hướng đi có thể không đúng, họ vẫn sẵn sàng tiến lên. Vì vậy, những người sở hữu cung hoàng đạo này cần đặc biệt chú ý: không sao cả nếu muốn làm việc một mình, nhưng đôi khi cũng cần lắng nghe ý kiến của người khác để có cái nhìn khách quan hơn và giảm thiểu rủi ro mắc sai lầm."
+    }
+  },
+  "sc": {
+    "a": "7",
+    "b": "孤独 专注 走自己的路",
+    "content": {
+      "content1": "这个星座是比较孤独的星座，喜欢走自己的路，比较听不进别人的意见，对于不感兴趣的事情无动于衷，对于有兴趣的事，就算方向不对也会勇往直前，所以拥有这个星座的人要特别注意，想要独来独往是没有关系，但是有时候也需要听听别人的意见，会比较客观，也减少错误的机会。"
+    }
+  }
+}

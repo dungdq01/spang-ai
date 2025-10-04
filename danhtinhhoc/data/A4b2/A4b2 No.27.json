@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "27",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的獨立作戰功能很強，是很強的業務開拓人才，可以無中生有、從零開始，靠自己的能力打出一片天，對於本命是創業者、業務主管都非常的適合，但相對的是，屬下的獨立作戰功能非常強，也因此當屬下有自己的成績時，也很容易篡位，或是自行獨立自立門戶。",
+      "content2": "這個星座的人，在開創自己事業的同時，也要培養各種不同屬性的屬下，切勿偏重於少部分屬下，萬一屬下叛變、自立門戶，則會對本命造成相當大的殺傷力，所以如何平均的分散屬下的功能跟權力，是這個本命要學會的管理功課。",
+      "content3": "本命在男性者，太太很容易忙碌於工作當中，對家庭較少的照顧。",
+      "content4": "本命在女性者，先生很容易白手起家、創業，打拼出自己的事業體系。"
+    }
+  },
+  "vn": {
+    "a": "27",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng độc lập chiến đấu rất mạnh, là nhân tài phát triển kinh doanh mạnh mẽ, có thể bắt đầu từ con số không và tự mình tạo dựng cơ đồ. Rất phù hợp với người khởi nghiệp hoặc quản lý kinh doanh, nhưng vì khả năng chiến đấu độc lập mạnh mẽ, họ có thể dễ dàng tạo dựng thành tích của mình và do đó có thể cạnh tranh để chiếm vị trí của bạn hoặc tự mình thành lập doanh nghiệp riêng.",
+      "content2": "Người thuộc cung này, trong khi khởi nghiệp, cần phát triển đa dạng các loại nhân viên, tránh chỉ dựa vào một vài người, nếu không rủi ro rất cao nếu nhân viên đó nổi loạn hoặc độc lập. Việc phân bổ công bằng chức năng và quyền lực cho nhân viên là bài học quản lý quan trọng.",
+      "content3": "Nếu là nam giới, vợ có thể rất bận rộn với công việc và ít quan tâm đến gia đình.",
+      "content4": "Nếu là nữ giới, chồng có khả năng tự mình khởi nghiệp và xây dựng hệ thống doanh nghiệp của mình."
+    }
+  },
+  "sc": {
+    "a": "27",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的独立作战功能很强，是很强的业务开拓人才，可以无中生有、从零开始，靠自己的能力打出一片天，对于本命是创业者、业务主管都非常的适合，但相对的是，属下的独立作战功能非常强，也因此当属下有自己的成绩时，也很容易篡位，或是自行独立自立门户。",
+      "content2": "这个星座的人，在开创自己事业的同时，也要培养各种不同属性的属下，切勿偏重于少部分属下，万一属下叛变、自立门户，则会对本命造成相当大的杀伤力，所以如何平均的分散属下的功能跟权力，是这个本命要学会的管理功课。",
+      "content3": "本命在男性者，太太很容易忙碌于工作当中，对家庭较少的照顾。",
+      "content4": "本命在女性者，先生很容易白手起家、创业，打拼出自己的事业体系。"
+    }
+  }
+}

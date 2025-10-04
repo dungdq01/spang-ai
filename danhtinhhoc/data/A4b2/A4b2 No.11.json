@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "11",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的屬下，獨立性比較高，自動自發的功能也比較強，甚至可以帶動新進的屬下同仁，而其屬下的權力慾望也不會過強進而威脅到本命。是一個管理者相當好操作的星座。",
+      "content2": "這個星座的人，後運要懂得借力使力，要懂得授權給屬下，讓屬下充分發揮自動自發的功能，但偏偏有這個星座的人，在後運喜歡靠自己、不相信別人、凡事自己來，造成屬下功能無法發揮，因此要特別注意。",
+      "content3": "本命為男性者，太太的自主性比較強，可以自動自發為丈夫及家庭努力。",
+      "content4": "本命為女性者，先生很容易在社會上遇到有權勢的人、有地位的人，這些人都會是提拔先生的貴人。"
+    }
+  },
+  "vn": {
+    "a": "11",
+    "b": "Dưới quyền",
+    "c": "Vận mệnh sau này",
+    "d": "Cảm nhận về bạn đời",
+    "content": {
+      "content1": "Những người dưới quyền của cung này có tính độc lập cao và khả năng tự phát triển mạnh, thậm chí có thể dẫn dắt những người mới. Đồng thời, họ không có khao khát quyền lực mạnh mẽ đến mức đe dọa đến người chủ. Đây là một cung rất tốt cho những người quản lý sử dụng.",
+      "content2": "Người của cung này cần biết cách sử dụng sức mạnh từ người khác, biết ủy quyền để những người dưới quyền có thể phát huy tốt chức năng tự phát của họ. Tuy nhiên, thường những người của cung này lại thích làm mọi thứ một mình, không tin tưởng người khác, làm cho chức năng của những người dưới quyền không được phát huy, cần đặc biệt lưu ý điều này.",
+      "content3": "Đối với nam giới, vợ có khả năng tự chủ mạnh mẽ, có thể tự động hỗ trợ chồng và gia đình.",
+      "content4": "Đối với nữ giới, chồng rất dễ gặp gỡ những người có quyền lực cao, có vị trí xã hội cao, những người này sẽ là người giúp đỡ chồng bạn được thăng chức."
+    }
+  },
+  "sc": {
+    "a": "11",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的属下，独立性比较高，自动自发的功能也比较强，甚至可以带动新进的属下同仁，而其属下的权力欲望也不会过强进而威胁到本命。是一个管理者相当好操作的星座。",
+      "content2": "这个星座的人，后运要懂得借力使力，要懂得授权给属下，让属下充分发挥自动自发的功能，但偏偏有这个星座的人，在后运喜欢靠自己、不相信别人、凡事自己来，造成属下功能无法发挥，因此要特别注意。",
+      "content3": "本命为男性者，太太的自主性比较强，可以自动自发为丈夫及家庭努力。",
+      "content4": "本命为女性者，先生很容易在社会上遇到有权势的人、有地位的人，这些人都会是提拔先生的贵人。"
+    }
+  }
+}

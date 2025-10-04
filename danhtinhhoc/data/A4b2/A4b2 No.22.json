@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "22",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的輔佐功能很強，非常的聽話，但是又不死板，不會只知道聽命行事，可以自己去思考，自己找出解決問題的答案。是一個很能幫本命設計與規劃，出謀劃策的好幫手，不管是在從政或者是經商，這個星座都很適合。唯一要注意的是，如果本命自己太懶散，缺乏企圖心，則屬下的輔佐功能將會無法發揮。",
+      "content2": "這個星座的人在本命後運要充分的授權給屬下，並且重用屬下，透過制度與規劃，讓屬下有明確的方向做事，讓系統自動自發的運作，則本命後運可以相當輕鬆。",
+      "content3": "本命在男性者，太太可以跟先生一起共業，輔佐先生，也可以自己去外面工作，自由度很高。",
+      "content4": "本命在女性者，先生很容易在工作上得到名氣，但也可能陷入安逸懶散，光有名氣，但華而不實，很會講不會做。"
+    }
+  },
+  "vn": {
+    "a": "22",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng hỗ trợ mạnh mẽ, rất vâng lời nhưng không cứng nhắc, không chỉ biết nghe lời mà còn có thể tự mình suy nghĩ và tìm ra giải pháp cho các vấn đề. Họ là trợ thủ đắc lực trong việc thiết kế và lập kế hoạch, phù hợp với cả người làm chính trị và kinh doanh. Điều cần lưu ý là nếu bản mệnh quá lười biếng, thiếu tham vọng, thì khả năng hỗ trợ của nhân viên sẽ không được phát huy.",
+      "content2": "Trong giai đoạn sau của cuộc đời, người thuộc cung này cần phân quyền mạnh mẽ cho nhân viên dưới quyền và sử dụng họ một cách hiệu quả, thông qua hệ thống và kế hoạch rõ ràng để họ có hướng đi rõ ràng và làm việc một cách tự động, nhờ vậy giai đoạn sau của cuộc đời có thể trở nên dễ dàng hơn.",
+      "content3": "Đối với nam giới, vợ có thể cùng chồng làm ăn và hỗ trợ chồng, hoặc có thể tự mình đi làm, tự do cao.",
+      "content4": "Đối với nữ giới, chồng dễ dàng được công nhận trong công việc nhưng cũng có nguy cơ trở nên lười biếng, chỉ nổi tiếng mà không thực sự hiệu quả."
+    }
+  },
+  "sc": {
+    "a": "22",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的辅佐功能很强，非常的听话，但是又不死板，不会只知道听命行事，可以自己去思考，自己找出解决问题的答案。是一个很能帮本命设计与规划，出谋划策的好帮手，不管是在从政或者是经商，这个星座都很适合。唯一要注意的是，如果本命自己太懒散，缺乏企图心，则属下的辅佐功能将会无法发挥。",
+      "content2": "这个星座的人在本命后运要充分的授权给属下，并且重用属下，透过制度与规划，让属下有明确的方向做事，让系统自动自发的运作，则本命后运可以相当轻松。",
+      "content3": "本命在男性者，太太可以跟先生一起共业，辅佐先生，也可以自己去外面工作，自由度很高。",
+      "content4": "本命在女性者，先生很容易在工作上得到名气，但也可能陷入安逸懒散，光有名气，但华而不实，很会讲不会做。"
+    }
+  }
+}

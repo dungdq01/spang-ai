@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "21",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的帶動及管理功能非常的強，自主性很高，也可以自發性的帶動周遭的同仁，但是比較不穩定，起伏性比較大，很有可能屬下會回過頭來影響本命，對本命造成殺傷力。所以擁有這個星座的人，本命要比較強勢，要有比較高的領導手腕，不能被帶著走，自己要有主見以及執行能力。",
+      "content2": "這個星座的人，本命後運要比年輕時候更偏重穩定紮實，對於這個星座的人來說，開創江山比守住江山還容易，所以在後運要更加的保守、踏實，不做投機的事，有什麼機會都要做風險的控管。只要掌握住技術核心以及穩定組織，後運就會非常的穩固。",
+      "content3": "本命在男性者，太太比較強勢，很容易掌權，是家庭的實際主導者。",
+      "content4": "本命在女性者，先生容易掌權，但起伏較大，有可能來去一場空，太太也容易被先生拖累。"
+    }
+  },
+  "vn": {
+    "a": "21",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng lãnh đạo và quản lý mạnh mẽ, tự chủ cao, có thể tự động khích lệ đồng nghiệp xung quanh, nhưng lại không ổn định, biến động lớn, có thể gây hại cho chủ nhân. Vì vậy, người có cung này cần có tinh thần lãnh đạo mạnh mẽ, không bị dẫn dắt và phải có ý kiến riêng cũng như khả năng thực thi.",
+      "content2": "Người thuộc cung này trong giai đoạn sau của cuộc đời cần tập trung vào sự ổn định, bảo thủ hơn là mở rộng. Việc kiểm soát và giám sát chặt chẽ sẽ giúp giai đoạn sau của cuộc đời trở nên ổn định hơn.",
+      "content3": "Nếu là nam giới, vợ có xu hướng mạnh mẽ và có khả năng lãnh đạo, là người dẫn dắt thực sự trong gia đình.",
+      "content4": "Nếu là nữ giới, chồng có khả năng lãnh đạo cao nhưng cũng có thể gặp biến động lớn, có nguy cơ mọi thứ đổ vỡ, và vợ cũng có thể bị ảnh hưởng."
+    }
+  },
+  "sc": {
+    "a": "21",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的带动及管理功能非常的强，自主性很高，也可以自发性的带动周遭的同仁，但是比较不稳定，起伏性比较大，很有可能属下会回过头来影响本命，对本命造成杀伤力。所以拥有这个星座的人，本命要比较强势，要有比较高的领导手腕，不能被带着走，自己要有主见以及执行能力。",
+      "content2": "这个星座的人，本命后运要比年轻时候更偏重稳定扎实，对于这个星座的人来说，开创江山比守住江山还容易，所以在后运要更加的保守、踏实，不做投机的事，有什么机会都要做风险的控管。只要掌握住技术核心以及稳定组织，后运就会非常的稳固。",
+      "content3": "本命在男性者，太太比较强势，很容易掌权，是家庭的实际主导者。",
+      "content4": "本命在女性者，先生容易掌权，但起伏较大，有可能来去一场空，太太也容易被先生拖累。"
+    }
+  }
+}

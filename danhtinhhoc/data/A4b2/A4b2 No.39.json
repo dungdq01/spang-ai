@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "39",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的不穩定性比較高，雖然屬下靈活、活動力強、開發功能也高，但是因為屬下的不穩定性高，所以很可能在幫助本命一段時間之後，就會離開有所變動，或是在幫助本命有了階段性的成功之後，屬下產生異心開始作亂。",
+      "content2": "這個星座的人，因為屬下的不穩定性高，甚至有作亂的可能，所以在後運要注意，要懂得適時汰換舊屬下，引進新血，或是調動職務，避免讓屬下有翅膀硬了作亂，對自己帶來殺傷力的機會。也要在前期有了戰果之後，要懂得守成，保住成果。",
+      "content3": "本命在男性者，太太在工作上的態度較為懶散，但對投資理財有天份，有賺取暗財的機會。",
+      "content4": "本命在女性者，先生在工作職場上的機會稍縱即逝，要懂得把握機會。"
+    }
+  },
+  "vn": {
+    "a": "39",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có cấp dưới không ổn định, mặc dù linh hoạt và năng động, nhưng sự không ổn định của họ có thể dẫn đến rời đi sau một thời gian hỗ trợ hoặc sau khi đạt được thành công nhất định, họ có thể bắt đầu gây rối.",
+      "content2": "Do tính không ổn định của cấp dưới, bản mệnh cần chú ý đến việc thay thế nhân sự cũ, tuyển dụng nhân sự mới hoặc điều chỉnh công việc để ngăn chặn họ gây rối khi đã \"cứng cáp\". Nên giữ vững thành quả đã đạt được để bảo toàn thành công.",
+      "content3": "Nếu là nam, vợ có thái độ làm việc thiên về thoải mái nhưng có năng khiếu đầu tư tài chính và có cơ hội kiếm được tiền bất chính.",
+      "content4": "Nếu là nữ, chồng có cơ hội nghề nghiệp dễ dàng trôi qua, cần biết nắm bắt thời cơ."
+    }
+  },
+  "sc": {
+    "a": "39",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的不稳定性比较高，虽然属下灵活、活动力强、开发功能也高，但是因为属下的不稳定性高，所以很可能在帮助本命一段时间之后，就会离开有所变动，或是在帮助本命有了阶段性的成功之后，属下产生异心开始作乱。",
+      "content2": "这个星座的人，因为属下的不稳定性高，甚至有作乱的可能，所以在后运要注意，要懂得适时汰换旧属下，引进新血，或是调动职务，避免让属下有翅膀硬了作乱，对自己带来杀伤力的机会。也要在前期有了战果之后，要懂得守成，保住成果。",
+      "content3": "本命在男性者，太太在工作上的态度较为懒散，但对投资理财有天份，有赚取暗财的机会。",
+      "content4": "本命在女性者，先生在工作职场上的机会稍纵即逝，要懂得把握机会。"
+    }
+  }
+}

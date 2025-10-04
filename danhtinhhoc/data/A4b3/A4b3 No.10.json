@@ -1,0 +1,26 @@
+{
+  "tc": {
+    "a": "財星",
+    "b": "隱士 智慧 獨善其身",
+    "c": "眾人皆醉我獨醒，唯有蒼天明我心",
+    "content": {
+      "content1": "這個星座相當的有智慧，可惜個性隱藏，不喜歡表現自己，不喜歡與人合作，也不願意站上檯面，所以很難被人發掘自己的優點，但這個星座的人也不在乎，所以必須借助其他命格的優點，來彌補這個星座的隱藏狀況。基本上個星座很隱藏，知名的人物幾乎沒有，以喜博爺的客戶來說，有的是律師、有的是會計師，就是做自己專業的工作，走自己的路。"
+    }
+  },
+  "vn": {
+    "a": "Tinh Tài",
+    "b": "Ẩn Sĩ - Trí Tuệ - Tự Lập",
+    "c": "Mọi người đều say, riêng tôi tỉnh táo, chỉ trời mới hiểu tâm tôi.",
+    "content": {
+      "content1": "Cung này rất thông minh, nhưng tính cách lại ẩn dật, không thích thể hiện bản thân, không thích hợp tác với người khác, cũng không muốn đứng trên bục. Do đó, rất khó để người khác nhận ra điểm mạnh của họ, nhưng những người thuộc cung này cũng không mấy quan tâm đến điều đó. Họ cần phải tận dụng các ưu điểm của các cung khác để bù đắp cho sự kín đáo này. Về cơ bản, cung này rất kín đáo, hầu như không có nhân vật nổi tiếng nào, những khách hàng của Ông Hỷ Danh thường là luật sư, kế toán - những người làm công việc chuyên môn của họ và đi con đường của họ."
+    }
+  },
+  "sc": {
+    "a": "财星",
+    "b": "隐士 智慧 独善其身",
+    "c": "众人皆醉我独醒，唯有苍天明我心",
+    "content": {
+      "content1": "这个星座相当的有智慧，可惜个性隐藏，不喜欢表现自己，不喜欢与人合作，也不愿意站上台面，所以很难被人发掘自己的优点，但这个星座的人也不在乎，所以必须借助其他命格的优点，来弥补这个星座的隐藏状况。基本上个星座很隐藏，知名的人物几乎没有，以喜博爷的客户来说，有的是律师、有的是会计师，就是做自己专业的工作，走自己的路。"
+    }
+  }
+}

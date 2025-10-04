@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "33",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下較不好用，講難聽一點，屬下多是狗仗人勢、因主而貴、靠主而榮，打著老闆的招牌在外面風光。企業雖然看似一片和諧，屬下貌似忠心，穩定度高，但其實對本命並無太大幫助，反而想從本命得到資源。但是這些屬下對本命也不太有威脅性跟殺傷力，倒是不用擔心。",
+      "content2": "這個星座的人，因為屬下功能不強，所以一生多需要事必躬親，凡事親力親為，少有得力的助手能夠為自己分勞解憂。",
+      "content3": "本命在男性者，太太較為安逸、不想工作。",
+      "content4": "本命在女性者，先生的工作穩定，適合在穩定當中緩緩發展，不能急。"
+    }
+  },
+  "vn": {
+    "a": "33",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này khó dùng, thẳng thắn mà nói, cấp dưới thường sống dựa dẫm, nhờ vào người khác để tỏa sáng, mang thương hiệu của sếp để phô trương bên ngoài. Mặc dù công ty có vẻ hài hòa, cấp dưới có vẻ trung thành và ổn định, nhưng thực tế họ không giúp ích nhiều cho bản mệnh, thay vào đó lại muốn nhận nguồn lực từ bản mệnh. Tuy nhiên, những cấp dưới này không thực sự gây nguy hiểm hay tổn hại cho bản mệnh, không cần quá lo lắng.",
+      "content2": "Người này do cấp dưới không mạnh nên cả đời phải tự mình làm lụng, tự mình lo liệu mọi việc, hiếm có trợ thủ đắc lực giúp giảm nhẹ gánh nặng.",
+      "content3": "Nếu là nam, vợ có xu hướng sống an nhàn, không muốn làm việc.",
+      "content4": "Nếu là nữ, chồng có công việc ổn định, phù hợp với sự phát triển từ từ trong môi trường ổn định, không nên nóng vội."
+    }
+  },
+  "sc": {
+    "a": "33",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下较不好用，讲难听一点，属下多是狗仗人势、因主而贵、靠主而荣，打着老板的招牌在外面风光。企业虽然看似一片和谐，属下貌似忠心，稳定度高，但其实对本命并无太大帮助，反而想从本命得到资源。但是这些属下对本命也不太有威胁性跟杀伤力，倒是不用担心。",
+      "content2": "这个星座的人，因为属下功能不强，所以一生多需要事必躬亲，凡事亲力亲为，少有得力的助手能够为自己分劳解忧。",
+      "content3": "本命在男性者，太太较为安逸、不想工作。",
+      "content4": "本命在女性者，先生的工作稳定，适合在稳定当中缓缓发展，不能急。"
+    }
+  }
+}

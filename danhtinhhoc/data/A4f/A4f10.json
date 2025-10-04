@@ -1,0 +1,23 @@
+{
+  "tc": {
+    "a": "帶財-投資賺錢的好夥伴",
+    "b": "無 : 你們之間一起工作就好，不要牽涉錢的事情",
+    "content": {
+      "content1": "你們之間沒有帶財的功能，但是不用擔心，這不影響到工作，只是在錢財上，你們並沒有互相加乘的效果，所以請你們就好好的在工作上搭配即可。至於一起投資、一起創業、一起去賺錢什麼的，就不要想太多了，彼此不是最好的夥伴對象，再去找其他人吧。否則，沒有賺錢是小事，怕的是還因此結怨，連人際關係都搞壞就不好了。"
+    }
+  },
+  "vn": {
+    "a": "帶財Đem lại tài lộc - Là đối tác đầu tư kiếm tiền tốt",
+    "b": "Không: Các bạn chỉ nên cùng làm việc, đừng liên quan đến chuyện tiền bạc",
+    "content": {
+      "content1": "Giữa các bạn không có chức năng \"Đem lại tài lộc\", nhưng không cần lo lắng, điều này không ảnh hưởng đến công việc, chỉ là trong vấn đề tiền bạc, các bạn không có hiệu ứng cộng hưởng lẫn nhau, vì vậy các bạn chỉ cần phối hợp tốt trong công việc là được. Về việc cùng nhau đầu tư, khởi nghiệp, hay kiếm tiền, thì không nên nghĩ quá nhiều, các bạn không phải là đối tác tốt nhất cho nhau, hãy tìm người khác đi. Nếu không, không kiếm được tiền chỉ là chuyện nhỏ, điều đáng sợ là còn có thể vì thế mà gây mất lòng, làm hỏng mối quan hệ cá nhân thì thật là không tốt."
+    }
+  },
+  "sc": {
+    "a": "带财-投资赚钱的好伙伴",
+    "b": "无 : 你们之间一起工作就好，不要牵涉钱的事情",
+    "content": {
+      "content1": "你们之间没有带财的功能，但是不用担心，这不影响到工作，只是在钱财上，你们并没有互相加乘的效果，所以请你们就好好的在工作上搭配即可。至于一起投资、一起创业、一起去赚钱什么的，就不要想太多了，彼此不是最好的伙伴对象，再去找其他人吧。否则，没有赚钱是小事，怕的是还因此结怨，连人际关系都搞坏就不好了。"
+    }
+  }
+}

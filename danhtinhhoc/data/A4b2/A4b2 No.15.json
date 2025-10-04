@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "15",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的儲存、整理功能很強，穩定度很高，不容易脫序失控，是最能夠幫助本命穩定事業的一顆星。並且財庫很旺，最適合本命從事金融業、投資業、大企業家所用。",
+      "content2": "這個星座的本命後運，著重在守成、固守基業、傳承、任命接班人。不建議繼續開疆闢土，過分積極，後運財氣非常的旺，只需要靠之前打下的基礎，繼續以錢滾錢，用錢賺錢即可。",
+      "content3": "本命為男性者，太太非常的穩定，是持家最好的另一半。",
+      "content4": "本命為女性者，先生的財氣很旺，資源非常的多，最適合發展事業。"
+    }
+  },
+  "vn": {
+    "a": "15",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh về sau:",
+    "d": "Ảnh hưởng của vợ/chồng:",
+    "content": {
+      "content1": "Người thuộc chòm sao này có nhân viên dưới quyền rất giỏi trong việc tổ chức và sắp xếp, đảm bảo sự ổn định, không dễ mất trật tự, rất phù hợp để giúp chủ ổn định công việc kinh doanh. Họ cũng rất may mắn trong việc tài chính, rất phù hợp cho người chủ hoạt động trong lĩnh vực tài chính và đầu tư.",
+      "content2": "Vận mệnh sau này của người thuộc chòm sao này tập trung vào việc giữ gìn và bảo toàn doanh nghiệp hiện có, truyền nhượng và bổ nhiệm người kế nhiệm. Không nên mở rộng thêm, chỉ cần tận dụng những gì đã xây dựng trước đây để tạo ra lợi nhuận từ tiền bạc.",
+      "content3": "Đối với nam giới, vợ rất ổn định, là người bạn đồng hành tuyệt vời trong việc giữ gìn gia đình.",
+      "content4": "Đối với nữ giới, chồng có nhiều may mắn về tài chính, rất phù hợp để phát triển sự nghiệp."
+    }
+  },
+  "sc": {
+    "a": "15",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的储存、整理功能很强，稳定度很高，不容易脱序失控，是最能够帮助本命稳定事业的一颗星。并且财库很旺，最适合本命从事金融业、投资业、大企业家所用。",
+      "content2": "这个星座的本命后运，着重在守成、固守基业、传承、任命接班人。不建议继续开疆辟土，过分积极，后运财气非常的旺，只需要靠之前打下的基础，继续以钱滚钱，用钱赚钱即可。",
+      "content3": "本命为男性者，太太非常的稳定，是持家最好的另一半。",
+      "content4": "本命为女性者，先生的财气很旺，资源非常的多，最适合发展事业。"
+    }
+  }
+}

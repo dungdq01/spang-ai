@@ -1,0 +1,23 @@
+{
+  "tc": {
+    "a": "共業-打拼事業的好夥伴",
+    "b": "無: 你們當同事就好了，一起創業這些事情不要想",
+    "content": {
+      "content1": "你們之間並沒有共業的功能，但不用擔心，這個不影響一起工作，只是如果要談到一起創業，或是找對方當總經理等重要幹部，可能就不適合了，因為你們兩人並沒有共同的理想或目標，或是前期有，但是後面你們的理念想法就開始不合了，這會變成在公司的重大營運方針上，因為你們的想法不同而難以合作，難以發揮效益，最後一定有一人感到受害，而公司的營運也被影響。所以提前奉勸你，可以一起工作，但是一起創業、經營事業，要慎重考慮。"
+    }
+  },
+  "vn": {
+    "a": "Công nghiệp - Bạn đồng hành cùng xây dựng sự nghiệp",
+    "b": "Không: Các bạn làm đồng nghiệp thôi nhé, đừng nghĩ đến chuyện cùng nhau khởi nghiệp",
+    "content": {
+      "content1": "Giữa bạn và người kia không tồn tại chức năng công nghiệp, nhưng bạn không cần phải lo lắng, điều này không ảnh hưởng đến việc làm việc cùng nhau. Tuy nhiên, nếu nói đến việc cùng nhau khởi nghiệp, hoặc tìm người kia làm giám đốc điều hành hoặc các vị trí quan trọng khác, có thể sẽ không phù hợp. Bởi vì hai bạn không có một lý tưởng hoặc mục tiêu chung, hoặc ban đầu có, nhưng sau đó các ý tưởng và quan điểm của bạn bắt đầu không còn phù hợp. Điều này có thể dẫn đến việc khó hợp tác trong các chiến lược vận hành chính của công ty do sự khác biệt trong suy nghĩ của hai bạn, làm giảm hiệu quả và cuối cùng một người sẽ cảm thấy bị tổn thương, và hoạt động kinh doanh của công ty cũng bị ảnh hưởng. Vì vậy, tôi khuyên bạn nên cân nhắc kỹ, có thể làm việc cùng nhau nhưng cùng nhau khởi nghiệp hoặc kinh doanh, hãy suy nghĩ thật kỹ."
+    }
+  },
+  "sc": {
+    "a": "共业-打拼事业的好伙伴",
+    "b": "无: 你们当同事就好了，一起创业这些事情不要想",
+    "content": {
+      "content1": "你们之间并没有共业的功能，但不用担心，这个不影响一起工作，只是如果要谈到一起创业，或是找对方当总经理等重要干部，可能就不适合了，因为你们两人并没有共同的理想或目标，或是前期有，但是后面你们的理念想法就开始不合了，这会变成在公司的重大营运方针上，因为你们的想法不同而难以合作，难以发挥效益，最后一定有一人感到受害，而公司的营运也被影响。所以提前奉劝你，可以一起工作，但是一起创业、经营事业，要慎重考虑。"
+    }
+  }
+}

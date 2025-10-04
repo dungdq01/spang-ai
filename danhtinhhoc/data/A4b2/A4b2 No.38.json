@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "38",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下通常比較被動、懶散，雖然屬下外表亮眼、學歷背景看似不錯，但其實不好用，難以對本命帶來貢獻，屬於中看不中用的類型，整個工作團隊，僅適合用來做企業公關宣傳形象廣告而已。",
+      "content2": "這個星座的人，一輩子在職場上都需要自力更生，比較忙碌，屬下雖然不至於造反叛變，但對本命的幫助不大，所以後運也無需對屬下有過多期待，依然要自己專注在本業的經營上才行。",
+      "content3": "本命在男性者，太太可以創業，有經營事業的手腕及眼光。",
+      "content4": "本命在女性者，先生比較安逸，會變成依靠太太的情況較多。"
+    }
+  },
+  "vn": {
+    "a": "38",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có cấp dưới thường khá bị động và lười biếng, mặc dù trông có vẻ ngoài hấp dẫn và có nền tảng học vấn tốt, nhưng thực tế họ không mang lại nhiều giá trị cho bản mệnh, chỉ phù hợp để duy trì hình ảnh công ty trong mắt công chúng.",
+      "content2": "Người này cả đời phải tự lực cánh sinh, bận rộn nhưng an toàn và ổn định. Không nên kỳ vọng quá nhiều vào cấp dưới mà nên tập trung vào việc kinh doanh của bản thân.",
+      "content3": "Nếu là nam, vợ có thể khởi nghiệp, có khả năng và tầm nhìn kinh doanh.",
+      "content4": "Nếu là nữ, chồng thường xuyên dựa vào vợ, có xu hướng nhàn nhã hơn."
+    }
+  },
+  "sc": {
+    "a": "38",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下通常比较被动、懒散，虽然属下外表亮眼、学历背景看似不错，但其实不好用，难以对本命带来贡献，属于中看不中用的类型，整个工作团队，仅适合用来做企业公关宣传形象广告而已。",
+      "content2": "这个星座的人，一辈子在职场上都需要自力更生，比较忙碌，属下虽然不至于造反叛变，但对本命的帮助不大，所以后运也无需对属下有过多期待，依然要自己专注在本业的经营上才行。",
+      "content3": "本命在男性者，太太可以创业，有经营事业的手腕及眼光。",
+      "content4": "本命在女性者，先生比较安逸，会变成依靠太太的情况较多。"
+    }
+  }
+}

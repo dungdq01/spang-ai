@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "20",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的思考功能及經營能力都很強，非常的自動自發，又能配合本命，好用又不會造反，對於從政者及企業主都非常的適合，擁有這個星座的人，如果是經商者，卻沒有賺到錢，那一定是自己個人能力有問題。",
+      "content2": "這個星座的人，到了本命後運依然可以持續的發揮，想要繼續擴大經營、更上一層樓，都還有很大的空間，可以把中小企業擴大成上市公司，所以要全力培養人才，用心經營自己的事業，後運大有可為。",
+      "content3": "本命在男性者，太太的配合度高，可以幫忙先生一起共業。",
+      "content4": "本命在女性者，先生在事業上的貴人相當的多，但也怕因為資源來得容易，而有安逸懶散的狀況。"
+    }
+  },
+  "vn": {
+    "a": "20",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này, nhân viên dưới quyền có khả năng suy nghĩ và kinh doanh mạnh mẽ, tự động và phối hợp tốt với bản mệnh, dễ sử dụng và không nổi loạn. Rất phù hợp cho những người làm chính trị hoặc doanh nhân. Nếu là doanh nhân nhưng không kiếm được tiền, thì chắc chắn là do năng lực cá nhân có vấn đề.",
+      "content2": "Người thuộc cung này trong giai đoạn sau của cuộc đời vẫn có thể tiếp tục phát huy, muốn mở rộng kinh doanh, có nhiều không gian để phát triển, có thể phát triển doanh nghiệp vừa và nhỏ thành công ty niêm yết. Vì vậy, cần chú trọng đào tạo nhân tài và chăm chỉ quản lý công việc kinh doanh, hậu vận rất có triển vọng.",
+      "content3": "Nếu là nam, vợ rất hợp tác, có thể cùng chồng kinh doanh.",
+      "content4": "Nếu là nữ, chồng có nhiều quý nhân trong sự nghiệp, nhưng cũng dễ vì nguồn lực dồi dào mà lười biếng."
+    }
+  },
+  "sc": {
+    "a": "20",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的思考功能及经营能力都很强，非常的自动自发，又能配合本命，好用又不会造反，对于从政者及企业主都非常的适合，拥有这个星座的人，如果是经商者，却没有赚到钱，那一定是自己个人能力有问题。",
+      "content2": "这个星座的人，到了本命后运依然可以持续的发挥，想要继续扩大经营、更上一层楼，都还有很大的空间，可以把中小企业扩大成上市公司，所以要全力培养人才，用心经营自己的事业，后运大有可为。",
+      "content3": "本命在男性者，太太的配合度高，可以帮忙先生一起共业。",
+      "content4": "本命在女性者，先生在事业上的贵人相当的多，但也怕因为资源来得容易，而有安逸懒散的状况。"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "36",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，本命很容易對屬下給予信任和重用，但偏偏屬下的輔佐功能不強，為本命帶來的貢獻不多，甚至很容易叛變，很容易讓企業主看走眼、跌破眼鏡。",
+      "content2": "這個星座的人，終其一生都需要靠自己來經營事業，比較忙碌，但也比較安全及穩固，絕不能輕易將重要的事物交給屬下、或是仰賴屬下過多，否則會有翻船的危機。",
+      "content3": "本命在男性者，太太很容易在工作職場中得到上司的信任，予以提拔。",
+      "content4": "本命在女性者，先生看似在工作職場中機會很多，但其實不太穩定，較容易當機會來臨卻又有波折。"
+    }
+  },
+  "vn": {
+    "a": "36",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người của cung này dễ dàng tin tưởng và trọng dụng cấp dưới, nhưng cấp dưới thường không đáp ứng được kỳ vọng, ít đóng góp cho bản mệnh và dễ dàng nổi loạn. Điều này có thể khiến người chủ doanh nghiệp gặp rủi ro.",
+      "content2": "Người này suốt đời phải tự mình quản lý doanh nghiệp, tuy bận rộn nhưng lại an toàn và vững chắc. Không nên dễ dàng giao trọng trách cho cấp dưới hay quá phụ thuộc vào họ, bởi điều đó có thể dẫn đến nguy cơ \"chìm thuyền\".",
+      "content3": "Nếu là nam, vợ rất dễ được sếp tin tưởng và thăng tiến trong công việc.",
+      "content4": "Nếu là nữ, chồng có vẻ như có nhiều cơ hội trong sự nghiệp, nhưng thực tế lại không ổn định, dễ gặp trục trặc khi cơ hội xuất hiện."
+    }
+  },
+  "sc": {
+    "a": "36",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，本命很容易对属下给予信任和重用，但偏偏属下的辅佐功能不强，为本命带来的贡献不多，甚至很容易叛变，很容易让企业主看走眼、跌破眼镜。",
+      "content2": "这个星座的人，终其一生都需要靠自己来经营事业，比较忙碌，但也比较安全及稳固，绝不能轻易将重要的事物交给属下、或是仰赖属下过多，否则会有翻船的危机。",
+      "content3": "本命在男性者，太太很容易在工作职场中得到上司的信任，予以提拔。",
+      "content4": "本命在女性者，先生看似在工作职场中机会很多，但其实不太稳定，较容易当机会来临却又有波折。"
+    }
+  }
+}

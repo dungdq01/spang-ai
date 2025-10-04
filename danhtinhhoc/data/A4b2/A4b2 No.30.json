@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "30",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的財運很旺，理財的功能很強，很能夠找到商機加以經營。有這個星座的人非常適合從商，經營事業，屬下很能夠為本命擴大事業版圖，但唯獨要注意的是，屬下每個都很聰明，但不容易團結，雖然不會叛變，但是屬下互相之間的不配合，也會為組織及本命帶來殺傷力。",
+      "content2": "這個星座的人，要思考如何透過制度、管理手段，來團結自己的屬下，讓自己的屬下能夠互相配合，而不是各行其是，甚至是互相扯後腿，如果能夠有效團結屬下，則本命的後運有更上一層樓的機會，甚至可以考慮往海外發展擴大。",
+      "content3": "本命在男性者，太太的財運很強，很適合管理錢財。",
+      "content4": "本命在女性者，先生非常適合經商、創業，財氣相當的旺。"
+    }
+  },
+  "vn": {
+    "a": "30",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có vận may về tài chính rất tốt, kỹ năng quản lý tài chính rất mạnh, rất giỏi tìm kiếm và tận dụng cơ hội kinh doanh. Họ rất phù hợp để kinh doanh, mở rộng quy mô kinh doanh, nhân viên của họ có thể giúp họ mở rộng quy mô kinh doanh. Tuy nhiên, cần lưu ý rằng mặc dù nhân viên của họ thông minh và không phản bội, nhưng sự thiếu hợp tác giữa họ có thể gây hại cho tổ chức và cho bản thân họ.",
+      "content2": "Người thuộc cung này cần suy nghĩ về cách thức thông qua hệ thống và các biện pháp quản lý để đoàn kết nhân viên của mình, giúp họ hợp tác với nhau thay vì làm việc riêng hoặc cản trở lẫn nhau. Nếu có thể hiệu quả đoàn kết nhân viên, giai đoạn sau của cuộc đời họ có thể phát triển lên một tầm cao mới, thậm chí có thể xem xét mở rộng ra nước ngoài.",
+      "content3": "Nếu là nam giới, vợ có vận may tài chính tốt, thích hợp quản lý tiền bạc.",
+      "content4": "Nếu là nữ giới, chồng rất phù hợp để kinh doanh, bắt đầu doanh nghiệp, có vận may tài chính rất tốt."
+    }
+  },
+  "sc": {
+    "a": "30",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的财运很旺，理财的功能很强，很能够找到商机加以经营。有这个星座的人非常适合从商，经营事业，属下很能够为本命扩大事业版图，但唯独要注意的是，属下每个都很聪明，但不容易团结，虽然不会叛变，但是属下互相之间的不配合，也会为组织及本命带来杀伤力。",
+      "content2": "这个星座的人，要思考如何透过制度、管理手段，来团结自己的属下，让自己的属下能够互相配合，而不是各行其是，甚至是互相扯后腿，如果能够有效团结属下，则本命的后运有更上一层楼的机会，甚至可以考虑往海外发展扩大。",
+      "content3": "本命在男性者，太太的财运很强，很适合管理钱财。",
+      "content4": "本命在女性者，先生非常适合经商、创业，财气相当的旺。"
+    }
+  }
+}

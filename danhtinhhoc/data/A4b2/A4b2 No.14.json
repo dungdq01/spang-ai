@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "14",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人屬下的功能有兩極化，分為男女來判斷。如果本命為男性，屬下的功能比較難以發揮出來，行動力比較差，只有表達功能、口語功能比較發達，如果是在教育界、傳播界比較適合，在企業界就比較有說得多做得少的狀況。如果本命為女性，屬下的功能很容易發揮出來，除了口語表達功能很強之外，行動力與執行力也可以跟上，且願意為本命效力，所以這個星座對女性本命比較適合。",
+      "content2": "這個星座的本命後運，要靠資產的累積，尤其是不動產的累積最適合，較不建議繼續在本業加以擴大。",
+      "content3": "本命為男性者，太太很容易得到暗財，也很適合購買不動產。",
+      "content4": "本命為女性者，先生很容易得到上層貴人的提拔。"
+    }
+  },
+  "vn": {
+    "a": "14",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh về sau:",
+    "d": "Ảnh hưởng của vợ/chồng:",
+    "content": {
+      "content1": "Người thuộc chòm sao này có nhân viên dưới quyền hoạt động rất khác nhau tùy theo giới tính. Đối với nam giới, nhân viên thường khó phát huy tốt năng lực, thiếu hành động nhưng có khả năng biểu đạt và nói chuyện tốt, phù hợp với lĩnh vực giáo dục hoặc truyền thông. Đối với nữ giới, nhân viên có khả năng biểu đạt tốt, sẵn sàng hành động và thực thi mệnh lệnh, phù hợp với nữ giới chủ.",
+      "content2": "Vận mệnh sau này của người thuộc chòm sao này phụ thuộc vào việc tích lũy tài sản, đặc biệt là bất động sản, không khuyến khích mở rộng sự nghiệp hiện tại.",
+      "content3": "Đối với nam giới, vợ rất dễ thu được của cải bí mật và phù hợp với việc mua bất động sản.",
+      "content4": "Đối với nữ giới, chồng dễ dàng được các quý nhân trên cao trọng dụng."
+    }
+  },
+  "sc": {
+    "a": "14",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人属下的功能有两极化，分为男女来判断。如果本命为男性，属下的功能比较难以发挥出来，行动力比较差，只有表达功能、口语功能比较发达，如果是在教育界、传播界比较适合，在企业界就比较有说得多做得少的状况。如果本命为女性，属下的功能很容易发挥出来，除了口语表达功能很强之外，行动力与执行力也可以跟上，且愿意为本命效力，所以这个星座对女性本命比较适合。",
+      "content2": "这个星座的本命后运，要靠资产的累积，尤其是不动产的累积最适合，较不建议继续在本业加以扩大。",
+      "content3": "本命为男性者，太太很容易得到暗财，也很适合购买不动产。",
+      "content4": "本命为女性者，先生很容易得到上层贵人的提拔。"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tc": {
+    "a": "相輔相成－親密的愛人，親密的戰友",
+    "b": "無　： 你們一起談戀愛就好了，不要期待對方在工作上的幫忙",
+    "content": {
+      "content1": "你們之間並沒有相輔相成這項功能，不過這對你們的感情並沒有帶來負面的影響，就只是你們不適合一起在同職場工作，不要強迫對方一定要去參加你的應酬，不要希望對方會在工作上幫忙你什麼，有這樣的認知就可以了。有個功能只是加分，沒有這個功能，就不要強求強迫，反而為感情帶來困擾。感情歸感情，工作歸工作，明白這樣就好了喔。"
+    }
+  },
+  "vn": {
+    "a": "Tương phụ tương thành - Người yêu thương, đồng đội thân thiết",
+    "b": "Không có: Hai bạn chỉ nên yêu nhau thôi, đừng mong đợi sự giúp đỡ của đối phương trong công việc",
+    "content": {
+      "content1": "Giữa hai bạn không tồn tại chức năng tương phụ tương thành, nhưng điều này không gây ảnh hưởng tiêu cực đến mối quan hệ tình cảm của bạn, chỉ là hai bạn không thích hợp để cùng nhau làm việc trong cùng một môi trường. Đừng ép buộc người kia phải tham gia các hoạt động xã giao cùng bạn, đừng mong đợi họ sẽ giúp đỡ bạn trong công việc. Việc nhận thức được điều này là đủ. Một chức năng chỉ là điểm cộng, không có nó thì không nên ép buộc, bởi điều đó chỉ làm rối ren mối quan hệ. Tình cảm và công việc nên được phân biệt rạch ròi, hiểu được điều này là tốt rồi."
+    }
+  },
+  "sc": {
+    "a": "相辅相成－亲密的爱人，亲密的战友",
+    "b": "无　： 你们一起谈恋爱就好了，不要期待对方在工作上的帮忙",
+    "content": {
+      "content1": "你们之间并没有相辅相成这项功能，不过这对你们的感情并没有带来负面的影响，就只是你们不适合一起在同职场工作，不要强迫对方一定要去参加你的应酬，不要希望对方会在工作上帮忙你什么，有这样的认知就可以了。有个功能只是加分，没有这个功能，就不要强求强迫，反而为感情带来困扰。感情归感情，工作归工作，明白这样就好了喔。"
+    }
+  }
+}

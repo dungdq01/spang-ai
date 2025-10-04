@@ -1,0 +1,26 @@
+{
+  "tc": {
+    "a": "困行星",
+    "b": "受困 懷才不遇 經營自己",
+    "c": "龍困淺灘勿強求，寧靜致遠心自在",
+    "content": {
+      "content1": "這個星座雖然屬於相星，但是輔佐的功能最難發揮出來，一輩子空有所學，但難以致用，大多懷才不遇，陷入困境。所以這個星座的人雖然學識涵養都很高，才華洋溢，但是很可能往往無法鴻圖大展。儘管如此，這個星座的人在一般職場工作養活自己，照顧家人是輕而易舉，雖然難以成就大事業，但建立安康之家倒不難。"
+    }
+  },
+  "vn": {
+    "a": "Ngôi sao Khó khăn",
+    "b": "Bị trói buộc, tài năng bị bỏ phí, tự mình vận hành",
+    "c": "Rồng mắc cạn không cưỡng cầu, tâm an tưởng xa.",
+    "content": {
+      "content1": "Mặc dù thuộc về ngôi sao tương trợ, nhưng chức năng hỗ trợ của ngôi sao này rất khó để phát huy, suốt đời vốn có học thức nhưng khó ứng dụng, hầu như bị bỏ phí tài năng, mắc kẹt trong hoàn cảnh khó khăn. Vì vậy, mặc dù người thuộc ngôi sao này có học vấn cao và tài năng xuất chúng, nhưng có thể khó mở rộng sự nghiệp lớn. Tuy nhiên, họ vẫn có thể dễ dàng nuôi sống bản thân và chăm sóc gia đình trong một công việc bình thường, mặc dù khó để thành lập một doanh nghiệp lớn, nhưng việc xây dựng một gia đình ấm áp không phải là khó."
+    }
+  },
+  "sc": {
+    "a": "困行星",
+    "b": "受困 怀才不遇 经营自己",
+    "c": "龙困浅滩勿强求，宁静致远心自在",
+    "content": {
+      "content1": "这个星座虽然属于相星，但是辅佐的功能最难发挥出来，一辈子空有所学，但难以致用，大多怀才不遇，陷入困境。所以这个星座的人虽然学识涵养都很高，才华洋溢，但是很可能往往无法鸿图大展。尽管如此，这个星座的人在一般职场工作养活自己，照顾家人是轻而易举，虽然难以成就大事业，但建立安康之家倒不难。"
+    }
+  }
+}

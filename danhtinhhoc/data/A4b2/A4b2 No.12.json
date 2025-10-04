@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "12",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的輔佐功能及保護主人的特性非常強，屬下跟本命互相的配合度以及互補性相當得好，是企業家及領導人最喜歡的一顆星座，子女宮有這顆星座的人，人才最容易聚集在一起，不容易流失。",
+      "content2": "這個星座的人的後運要更多方培養人才，讓各式各樣的人才互補，建全組織，後運有機會可以更上一層樓，只要能夠留住人才，晚年的事業會非常的穩固。",
+      "content3": "本命為男性者，太太非常的勤勞，可以配合先生在事業上一起努力，幫夫運非常強。",
+      "content4": "本命為女性者，先生非常有才華、能力出眾，很容易被賞識及重用。"
+    }
+  },
+  "vn": {
+    "a": "12",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh về sau:",
+    "d": "Ảnh hưởng của vợ/chồng:",
+    "content": {
+      "content1": "Chòm sao này có khả năng hỗ trợ và bảo vệ chủ nhân của họ rất mạnh mẽ, tạo nên sự phối hợp và bổ sung lý tưởng. Nó là một trong những chòm sao được yêu thích bởi các doanh nhân và lãnh đạo bởi khả năng tập hợp và giữ chân nhân tài một cách hiệu quả.",
+      "content2": "Những người thuộc chòm sao này nên tập trung phát triển các tài năng đa dạng để củng cố tổ chức của họ, điều này có thể đưa doanh nghiệp của họ lên một tầm cao mới. Giữ chân nhân tài là chìa khóa để đảm bảo sự nghiệp ổn định vào những năm sau này.",
+      "content3": "Đối với nam giới, vợ rất chăm chỉ và có thể cùng chồng kinh doanh, đáng kể thúc đẩy vận mệnh của anh ta.",
+      "content4": "Đối với phụ nữ, chồng rất tài năng và dễ dàng được nhận ra và sử dụng trong sự nghiệp của mình."
+    }
+  },
+  "sc": {
+    "a": "12",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的辅佐功能及保护主人的特性非常强，属下跟本命互相的配合度以及互补性相当得好，是企业家及领导人最喜欢的一颗星座，子女宫有这颗星座的人，人才最容易聚集在一起，不容易流失。",
+      "content2": "这个星座的人的后运要更多方培养人才，让各式各样的人才互补，建全组织，后运有机会可以更上一层楼，只要能够留住人才，晚年的事业会非常的稳固。",
+      "content3": "本命为男性者，太太非常的勤劳，可以配合先生在事业上一起努力，帮夫运非常强。",
+      "content4": "本命为女性者，先生非常有才华、能力出众，很容易被赏识及重用。"
+    }
+  }
+}

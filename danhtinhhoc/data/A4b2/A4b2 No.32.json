@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "32",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下雖然有輔佐的功能，但是卻不強，護主功能較為薄弱，屬下配合、聽話、但是主動性不高，只會等待指示，聽命行事，欠缺主動性及自我思考的能力，解決問題的能力也較差。所以這個星座的本命，自身要比較強勢，把屬下當成旗子來用，切勿過度依賴屬下，否則屬下很容易成為自己的累贅，幫不上忙，還要照顧他們。",
+      "content2": "這個星座的人，雖然屬下眾多，但卻功能不強，所以後運更要偏重在累積外界資源，以彌補內部資源的不足，如果管理得當，這個星座的人的後運是安穩平順的，雖然難以有大發展，但也不會有太大變動及問題。",
+      "content3": "本命在男性者，太太可以和先生一起共同經營事業，有很好的幫夫運。",
+      "content4": "本命在女性者，先生有機會可以藉由上乘貴人的幫忙，一舉被提拔到高位。"
+    }
+  },
+  "vn": {
+    "a": "32",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng hỗ trợ không mạnh, khả năng bảo vệ chủ yếu khá yếu, cấp dưới lắng nghe và vâng lời, nhưng không chủ động, chỉ chờ chỉ thị, thiếu khả năng chủ động suy nghĩ và kém trong việc giải quyết vấn đề. Vì vậy, người thuộc cung này cần phải mạnh mẽ, coi cấp dưới như công cụ sử dụng, không nên quá phụ thuộc vào họ, nếu không họ có thể trở thành gánh nặng, không giúp ích được gì mà còn phải chăm sóc họ.",
+      "content2": "Dù có nhiều cấp dưới nhưng không mạnh mẽ, vì vậy giai đoạn sau này cần tập trung vào việc tích lũy nguồn lực bên ngoài để bù đắp cho sự thiếu hụt nguồn lực nội bộ. Nếu quản lý tốt, vận mệnh sau này của họ sẽ ổn định, tuy khó có những bước phát triển lớn nhưng cũng không gặp quá nhiều biến động hay vấn đề.",
+      "content3": "Nếu là nam, vợ có thể cùng chồng kinh doanh, có vận may tốt trong việc giúp đỡ chồng.",
+      "content4": "Nếu là nữ, chồng có thể nhận được sự giúp đỡ từ những người có quyền lực, thăng tiến nhanh."
+    }
+  },
+  "sc": {
+    "a": "32",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下虽然有辅佐的功能，但是却不强，护主功能较为薄弱，属下配合、听话、但是主动性不高，只会等待指示，听命行事，欠缺主动性及自我思考的能力，解决问题的能力也较差。所以这个星座的本命，自身要比较强势，把属下当成旗子来用，切勿过度依赖属下，否则属下很容易成为自己的累赘，帮不上忙，还要照顾他们。",
+      "content2": "这个星座的人，虽然属下众多，但却功能不强，所以后运更要偏重在累积外界资源，以弥补内部资源的不足，如果管理得当，这个星座的人的后运是安稳平顺的，虽然难以有大发展，但也不会有太大变动及问题。",
+      "content3": "本命在男性者，太太可以和先生一起共同经营事业，有很好的帮夫运。",
+      "content4": "本命在女性者，先生有机会可以藉由上乘贵人的帮忙，一举被提拔到高位。"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "34",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的傳播功能及口語能力不錯，但是較為被動，如果本命的領導能力不足，則屬下很容易成為一片散沙，沒有指令就不會做事，也因此相當考驗本命的管理能力。優點是屬下的人際關係磁場不錯，可以為本命帶來工作以外的投資機會，特別是關於不動產方面，缺點是屬下之間的口舌糾紛比較多。",
+      "content2": "這個星座的人，後運要特別注重對組織的訓練與輔導，本命的主導性要夠強，不能夠放任，也不要期待屬下會自動自發做該做的事，必須一直留意組織管理。",
+      "content3": "本命在男性者，太太的不動產運很旺，可以往不動產業工作，會為太太帶來很多的財運。",
+      "content4": "本命在女性者，先生的舞台魅力佳，可以從事業務工作、演說工作、教育工作。"
+    }
+  },
+  "vn": {
+    "a": "34",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng truyền thông và nói chuyện khá tốt, nhưng lại khá thụ động, nếu bản mệnh không có khả năng lãnh đạo mạnh mẽ thì cấp dưới dễ trở thành một tập thể lỏng lẻo, không có chỉ đạo thì không làm việc, điều này đặc biệt thách thức năng lực quản lý của bản mệnh. Lợi thế là cấp dưới có mạng lưới quan hệ xã hội tốt, có thể mang lại cơ hội đầu tư ngoài công việc cho bản mệnh, đặc biệt là về bất động sản, nhược điểm là cấp dưới có nhiều mâu thuẫn nội bộ.",
+      "content2": "Người thuộc cung này cần chú trọng đào tạo và hướng dẫn tổ chức, bản mệnh cần có sự kiểm soát mạnh mẽ, không nên để mặc cấp dưới và không nên kỳ vọng họ tự động làm những gì cần làm, luôn phải quản lý chặt chẽ tổ chức.",
+      "content3": "Nếu là nam, vợ có vận may tốt về bất động sản, phù hợp với việc kinh doanh trong lĩnh vực này, mang lại nhiều may mắn về tài chính.",
+      "content4": "Nếu là nữ, chồng có sức hấp dẫn trên sân khấu, thích hợp với công việc kinh doanh, thuyết trình, hoặc giảng dạy."
+    }
+  },
+  "sc": {
+    "a": "34",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的传播功能及口语能力不错，但是较为被动，如果本命的领导能力不足，则属下很容易成为一片散沙，没有指令就不会做事，也因此相当考验本命的管理能力。优点是属下的人际关系磁场不错，可以为本命带来工作以外的投资机会，特别是关于不动产方面，缺点是属下之间的口舌纠纷比较多。",
+      "content2": "这个星座的人，后运要特别注重对组织的训练与辅导，本命的主导性要够强，不能够放任，也不要期待属下会自动自发做该做的事，必须一直留意组织管理。",
+      "content3": "本命在男性者，太太的不动产运很旺，可以往不动产业工作，会为太太带来很多的财运。",
+      "content4": "本命在女性者，先生的舞台魅力佳，可以从事业务工作、演说工作、教育工作。"
+    }
+  }
+}

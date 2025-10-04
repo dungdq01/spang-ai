@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "13",
+    "b": "下屬",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的動力很強，屬下的主動性、追擊性、活躍性都非常強，能夠為本命打拼、付出、賣命。唯一要擔心的是屬下過於衝動，如果沒有控制好，造成失控，可能會為本命帶來波折及殺傷力。這個星座是革命家、軍事家、白手起家的人最為適合。",
+      "content2": "這個星座的人的後運，不再是擴大自己屬下的數量，而是要學習如何穩定屬下，讓屬下在一定的制度跟範圍內活耀，不讓其失控，只要能做好管理屬下的工作，後運就會非常穩固。",
+      "content3": "本命為男性者，太太動力很強、相當有活力，但也比較強勢。",
+      "content4": "本命為女性者，先生很適合往外地發展，在外地有很多的機會跟資源。"
+    }
+  },
+  "vn": {
+    "a": "13",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh về sau:",
+    "d": "Ảnh hưởng của vợ/chồng:",
+    "content": {
+      "content1": "Những người thuộc chòm sao này có nhân viên dưới quyền rất động lực, tích cực và năng động, lý tưởng để chiến đấu, cống hiến cho chủ nhân. Điều duy nhất cần lo lắng là sự bốc đồng của họ; nếu không kiểm soát tốt có thể gây ra bất ổn và hậu quả nghiêm trọng. Chòm sao này phù hợp với những nhà cách mạng, nhà quân sự và những người khởi nghiệp từ tay trắng.",
+      "content2": "Vận mệnh sau này của người thuộc chòm sao này không còn là mở rộng số lượng nhân viên dưới quyền, mà là học cách làm ổn định nhân viên của mình, để họ hoạt động trong khuôn khổ và giới hạn nhất định mà không làm mất kiểm soát. Chỉ cần quản lý tốt công việc với nhân viên, vận mệnh sau này sẽ rất vững chắc.",
+      "content3": "Đối với nam giới, vợ rất năng động và có nhiều sức sống, nhưng cũng khá mạnh mẽ.",
+      "content4": "Đối với phụ nữ, chồng rất phù hợp để phát triển ở nước ngoài, nơi có nhiều cơ hội và nguồn lực."
+    }
+  },
+  "sc": {
+    "a": "13",
+    "b": "下属",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的动力很强，属下的主动性、追击性、活跃性都非常强，能够为本命打拼、付出、卖命。唯一要担心的是属下过于冲动，如果没有控制好，造成失控，可能会为本命带来波折及杀伤力。这个星座是革命家、军事家、白手起家的人最为适合。",
+      "content2": "这个星座的人的后运，不再是扩大自己属下的数量，而是要学习如何稳定属下，让属下在一定的制度跟范围内活耀，不让其失控，只要能做好管理属下的工作，后运就会非常稳固。",
+      "content3": "本命为男性者，太太动力很强、相当有活力，但也比较强势。",
+      "content4": "本命为女性者，先生很适合往外地发展，在外地有很多的机会跟资源。"
+    }
+  }
+}

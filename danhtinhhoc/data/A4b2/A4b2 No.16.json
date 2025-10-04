@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "16",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的活躍性雖然強，但是容易徒勞無功，雖然忙碌，但沒有成果。所以子女宮在這個星座的人，本命需要自己帶動屬下，親力親為，示範給屬下看，陪著屬下一起做，組織才帶得起來。",
+      "content2": "這個星座的後運，更需要加強自己的領導能力、管理能力、教育輔導能力，才能夠把組織順利運作，一旦整個系統架構建立起來，就能夠以人帶人，不再需要自己這麼勞累，後運可以有比較悠閑的機會。",
+      "content3": "本命在男性者，太太比較容易忙碌卻沒有賺到錢，譬如像是志工工作，付出得多，但是實質收穫少。",
+      "content4": "本命在女性者，先生的機運不錯，可以穩定的在大企業發展。"
+    }
+  },
+  "vn": {
+    "a": "16",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có nhân viên dưới quyền hoạt động tích cực nhưng thường không mang lại kết quả, dù bận rộn nhưng không hiệu quả. Do đó, người có cung con cái thuộc cung này cần tự mình dẫn dắt, làm gương cho nhân viên, cùng làm việc với họ để có thể dẫn dắt tổ chức hiệu quả.",
+      "content2": "Vận mệnh sau này của người thuộc cung này cần cải thiện khả năng lãnh đạo, quản lý và hỗ trợ giáo dục để đảm bảo tổ chức hoạt động trơn tru. Một khi đã thiết lập được hệ thống, họ có thể dùng người để dạy người, không cần phải làm việc vất vả nữa và có thể có cuộc sống thoải mái hơn.",
+      "content3": "Nếu là nam giới, vợ thường xuyên bận rộn nhưng không kiếm được nhiều tiền, có thể do làm việc thiện nguyện, nỗ lực nhiều nhưng thu lại ít.",
+      "content4": "Nếu là nữ giới, chồng có nhiều cơ hội phát triển ổn định trong các công ty lớn."
+    }
+  },
+  "sc": {
+    "a": "16",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的活跃性虽然强，但是容易徒劳无功，虽然忙碌，但没有成果。所以子女宫在这个星座的人，本命需要自己带动属下，亲力亲为，示范给属下看，陪着属下一起做，组织才带得起来。",
+      "content2": "这个星座的后运，更需要加强自己的领导能力、管理能力、教育辅导能力，才能够把组织顺利运作，一旦整个系统架构建立起来，就能够以人带人，不再需要自己这么劳累，后运可以有比较悠闲的机会。",
+      "content3": "本命在男性者，太太比较容易忙碌却没有赚到钱，譬如像是志工工作，付出得多，但是实质收获少。",
+      "content4": "本命在女性者，先生的机运不错，可以稳定的在大企业发展。"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "tc": {
+    "a": "水剋火",
+    "b": "熱心，商業頭腦，靈活",
+    "c": "路見不平拔刀相助的大俠",
+    "d": "熱心100%",
+    "e": "護主心 90%",
+    "f": "排他性 80%",
+    "g": "商業敏銳度90%",
+    "h": "行動力 90%",
+    "content": {
+      "content1": "你的命格是路見不平、拔刀相助的大俠，熱心、感性、好打抱不平、疾惡如仇、奉獻自己、服務他人、個性也比較急，比較容易衝動，看到不合理的事情容易站出來理論。",
+      "content2": "你在團體中也是一個非常忠心的人，老闆跟主管會非常喜歡你的忠心，也因此你成為老闆貼身的左右手、幕僚、心腹的機會非常高。而你對周遭的人，也常常會賦予關懷，你會常常發現誰有困難誰有需要，往往他人還沒有察覺，你就先發現了誰有困難，也因此你為自己累積了很多陰德，默默的在幫助別人，而你從來不會一直掛在嘴上向人提起。",
+      "content3": "但要注意的是因為你的個性急躁，所以有時候事情沒有想清楚就先衝了，這可能會為你帶來危機，而你忠心護主的另外一方面，也可能會為你帶來排斥他人的副作用，當你覺得誰對老闆不忠心，你就會想要攻擊他與排斥他。此外，你對於他人的熱心，也有可能被濫用，要知道，可憐之人必有可恨之處，每個人都有自己應當負起的責任，切勿忽略了他人的責任而一昧的給予幫忙。",
+      "content4": "此外，你的腦筋非常靈活、行動快速，所以你非常有經商的頭腦，你能夠掌握時事的脈動，機會的所在，敢冒險，講求利潤，變通性強，這樣的命格非常的適合做生意，只要善加發揮一定會賺到大錢。如果在職場上班，很適合做業務類的工作，一定會賺到很多的獎金，你也很適合自己創業當老闆，相信你能找到很有利潤的一門生意。",
+      "content5": "你這個命格除了很講義氣，是個熱心的大俠之外，其實經營企業的頭腦非常的強，譬如蔣經國先生、張忠謀先生、林百里先生，這些重量級的人物，治國治理企業都非常的強，所以千萬要善用自己的這個特質，把自己格局放大，不要去在意那些小家子氣的小賺小虧，把經營潛力放在大的事業上，你們會非常有收穫，賺錢能力堪稱一流，千萬要記住喜博爺的這個提醒。",
+      "content6": "水剋火的女性，常常帶有大姊頭的風範，這個是正面的評價喔，妳們總是會站出來打抱不平，替弱勢發聲，跟那些傷害別人的人嗆聲。所以，水剋火的女性通常不是那種文靜感、嬌滴滴的怯懦感，妳們就是一個女俠，會以行動來展現妳們對人的關懷，對於有需要幫忙的人，妳們一定會站出來相挺。所以，能夠當妳的家人、朋友、同事，其實很幸福，因為真正需要人伸出援手的那一刻，妳們一定就是會帥氣出場的那個救星，真的帥呆了。請珍惜妳們的善良與熱心，這是現代社會很珍貴的特質，不要遺棄了這個特質，也很謝謝妳們一直發揮這個特質，帶給了很多人溫暖與幫助，真的謝謝妳們的存在。",
+      "content7": "你是喜博爺最忠實的戰友，你兼具感性與理性，對於商場上的敏銳度非常的高，很能跟競爭對手戰鬥廝殺，做生意的能力一流。但是看似殺氣騰騰的你，對於夥伴卻又非常的照顧，常常被你拉拔支持，真的很感謝戰場上有你這樣的夥伴，祝你一定要事業成功賺大錢。",
+      "content8": "命格水剋火的代表人物，台灣早期的領導人蔣經國先生就是這個命格，蔣經國先生非常的務實，看重實質面，不在意表面，不做粉飾太平的表面功夫，所以在當年台灣還很窮的年代，蔣經國先生推動十大建設，一舉把台灣的公共基礎重大建設完成，積極推動國際貿易，他的想法就是，把外國人的錢賺進來，這才是真的賺錢，所以他積極推動台灣的製造業，生產優質產品，然後賣到國外，把錢賺進台灣，台灣曾經是持有世界上最多的美金外匯，這都是水剋火的積極務實展現，所以喜博爺才說，水剋火的你們，經營生意頭腦非常的好，千萬不要浪費了這項特質。",
+      "content9": "你適合的工作有公關、助理、秘書、業務、行銷、服務業、公益事業、買賣業、貿易業、資訊電腦業、娛樂事業、金融交易、加工業。"
+    }
+  },
+  "vn": {
+    "a": "Thủy khắc Hỏa",
+    "b": "Nhiệt tình, óc kinh doanh, linh hoạt",
+    "c": "Hiệp sĩ sẵn sàng giúp đỡ khi thấy bất công",
+    "d": "Nhiệt tình: 100%",
+    "e": "Tinh thần bảo vệ: 90%",
+    "f": "Độc quyền: 80%",
+    "g": "Sắc bén trong kinh doanh: 90%",
+    "h": "Khả năng hành động: 90%",
+    "content": {
+      "content1": "Số mệnh của bạn là của một hiệp khách nhiệt tình, nhạy cảm, không thể chịu đựng sự bất công, ghét cái ác như kẻ thù, dâng hiến bản thân và phục vụ người khác. Bạn cũng là một người hơi nóng tính và dễ hành động bốc đồng, thường xuyên đứng ra tranh luận khi chứng kiến điều gì đó không công bằng.",
+      "content2": "Trong nhóm, bạn là một người rất trung thành. Sự trung thành của bạn được cấp trên rất đánh giá cao, và vì thế bạn thường xuyên có cơ hội trở thành trợ lý đắc lực, cánh tay phải của sếp. Bạn cũng thường xuyên quan tâm đến mọi người xung quanh, luôn là người đầu tiên nhận ra ai đang gặp khó khăn. Bạn đã tích lũy được nhiều phúc đức bằng cách giúp đỡ người khác một cách thầm lặng và không bao giờ khoe khoang về điều đó.",
+      "content3": "Tuy nhiên, bạn cần lưu ý rằng tính nóng vội có thể khiến bạn hành động mà chưa suy nghĩ kỹ, điều này có thể mang lại rủi ro cho bạn. Mặt khác, lòng trung thành bảo vệ sếp của bạn cũng có thể khiến bạn bị người khác cô lập khi bạn cảm thấy họ không trung thành với sếp. Ngoài ra, lòng nhiệt tình của bạn cũng có thể bị lợi dụng. Hãy nhớ rằng, không phải lúc nào cũng cần giúp đỡ một cách mù quáng, mỗi người đều có trách nhiệm của riêng mình.",
+      "content4": "Bạn có một tâm trí linh hoạt và hành động nhanh chóng, do đó bạn rất có năng khiếu kinh doanh. Bạn có thể nắm bắt được nhịp độ của thời cuộc, biết đâu là cơ hội, dám mạo hiểm và coi trọng lợi nhuận. Số mệnh này rất phù hợp với việc kinh doanh, chỉ cần bạn phát huy tốt thì chắc chắn sẽ kiếm được nhiều tiền. Nếu làm việc trong môi trường công sở, bạn rất thích hợp với công việc kinh doanh, chắc chắn sẽ kiếm được nhiều tiền thưởng. Bạn cũng rất phù hợp để tự mình khởi nghiệp, tôi tin bạn sẽ tìm được một lĩnh vực kinh doanh có lợi nhuận.",
+      "content5": "Ngoài việc rất coi trọng chữ tín và là một hiệp khách nhiệt tình, bạn cũng có một tâm trí kinh doanh rất mạnh. Ví dụ như Chiang Ching-kuo, Morris Chang và Lin Bai-li, những nhân vật nặng ký này đều rất giỏi trong việc quản lý quốc gia và doanh nghiệp. Vì vậy, bạn nên tận dụng tốt tính cách này của mình, mở rộng tầm nhìn của bản thân, không nên chỉ chú trọng đến những lợi ích nhỏ, hãy đặt tiềm năng kinh doanh vào những sự nghiệp lớn hơn, bạn sẽ thu được nhiều thành công, khả năng kiếm tiền của bạn là hàng đầu, hãy nhớ lời nhắc nhở của Ông Hỷ Danh.",
+      "content6": "Phụ nữ thuộc mệnh Thủy khắc Hỏa thường mang vẻ ngoài của một chị đại. Đây là một đánh giá tích cực, bạn luôn sẵn sàng đứng ra bảo vệ kẻ yếu, lên tiếng cho người bị áp bức, và đối đầu với những kẻ gây hại cho người khác. Do đó, phụ nữ Thủy khắc Hỏa thường không có vẻ ngoài dịu dàng, yếu đuối, bạn là một nữ hiệp sĩ, luôn thể hiện sự quan tâm của mình qua hành động. Ai cần sự giúp đỡ, bạn chắc chắn sẽ đứng ra hỗ trợ. Vì vậy, làm bạn bè, đồng nghiệp hoặc người thân của bạn là một điều may mắn, bởi vì khi cần ai đó giúp đỡ, bạn chắc chắn là người anh hùng xuất hiện đầy phong độ. Hãy trân trọng lòng tốt và sự nhiệt tình của bạn, đây là những phẩm chất quý giá trong xã hội hiện đại, đừng bỏ rơi chúng, và cảm ơn bạn đã luôn thể hiện phẩm chất này, mang đến sự ấm áp và giúp đỡ cho nhiều người, thật sự cảm ơn sự hiện diện của bạn.",
+      "content7": "Bạn là chiến hữu trung thành nhất của Ông Hỷ Danh, bạn vừa có cảm xúc vừa có lý trí, rất nhạy bén trong kinh doanh, có khả năng chiến đấu với đối thủ cạnh tranh, kỹ năng kinh doanh xuất sắc. Nhưng dù có vẻ ngoài lạnh lùng, bạn lại rất quan tâm đến đồng đội, thường xuyên được bạn kéo lên và hỗ trợ, thật sự biết ơn vì có bạn làm bạn đồng hành trên chiến trường, chúc bạn thành công trong sự nghiệp và kiếm được nhiều tiền.",
+      "content8": "Đại diện cho mệnh Thủy khắc Hỏa, Chiang Ching-kuo của Đài Loan là một ví dụ, ông rất thực tế, coi trọng bản chất hơn là hình thức, không làm những việc chỉ để cho có. Vì vậy, trong thời kỳ Đài Loan còn nghèo, ông đã thúc đẩy các dự án xây dựng lớn, đẩy mạnh thương mại quốc tế, ý tưởng của ông là kiếm tiền từ nước ngoài, đây mới là kiếm tiền thật. Ông tích cực thúc đẩy ngành công nghiệp sản xuất của Đài Loan, sản xuất các sản phẩm chất lượng cao để bán ra nước ngoài, kiếm tiền về cho Đài Loan. Đài Loan từng là quốc gia sở hữu nhiều đô la Mỹ nhất thế giới, tất cả những điều này là nhờ vào sự chủ động và thực tế của mệnh Thủy khắc Hỏa, vì vậy Ông Hỷ Danh nói rằng bạn của mệnh này rất giỏi trong kinh doanh, đừng lãng phí phẩm chất này.",
+      "content9": "Bạn phù hợp với các công việc như quan hệ công chúng, trợ lý, thư ký, kinh doanh, tiếp thị, ngành dịch vụ, công tác xã hội, buôn bán, thương mại, công nghệ thông tin, ngành giải trí, giao dịch tài chính, công nghiệp chế biến."
+    }
+  },
+  "sc": {
+    "a": "水克火",
+    "b": "热心，商业头脑，灵活",
+    "c": "路见不平拔刀相助的大侠",
+    "d": "热心100%",
+    "e": "护主心 90%",
+    "f": "排他性 80%",
+    "g": "商业敏锐度90%",
+    "h": "行动力 90%",
+    "content": {
+      "content1": "你的命格是路见不平、拔刀相助的大侠，热心、感性、好打抱不平、疾恶如仇、奉献自己、服务他人、个性也比较急，比较容易冲动，看到不合理的事情容易站出来理论。",
+      "content2": "你在团体中也是一个非常忠心的人，老板跟主管会非常喜欢你的忠心，也因此你成为老板贴身的左右手、幕僚、心腹的机会非常高。而你对周遭的人，也常常会赋予关怀，你会常常发现谁有困难谁有需要，往往他人还没有察觉，你就先发现了谁有困难，也因此你为自己累积了很多阴德，默默的在帮助别人，而你从来不会一直挂在嘴上向人提起。",
+      "content3": "但要注意的是因为你的个性急躁，所以有时候事情没有想清楚就先冲了，这可能会为你带来危机，而你忠心护主的另外一方面，也可能会为你带来排斥他人的副作用，当你觉得谁对老板不忠心，你就会想要攻击他与排斥他。此外，你对于他人的热心，也有可能被滥用，要知道，可怜之人必有可恨之处，每个人都有自己应当负起的责任，切勿忽略了他人的责任而一昧的给予帮忙。",
+      "content4": "此外，你的脑筋非常灵活、行动快速，所以你非常有经商的头脑，你能够掌握时事的脉动，机会的所在，敢冒险，讲求利润，变通性强，这样的命格非常的适合做生意，只要善加发挥一定会赚到大钱。如果在职场上班，很适合做业务类的工作，一定会赚到很多的奖金，你也很适合自己创业当老板，相信你能找到很有利润的一门生意。",
+      "content5": "你这个命格除了很讲义气，是个热心的大侠之外，其实经营企业的头脑非常的强，譬如蒋经国先生、张忠谋先生、林百里先生，这些重量级的人物，治国治理企业都非常的强，所以千万要善用自己的这个特质，把自己格局放大，不要去在意那些小家子气的小赚小亏，把经营潜力放在大的事业上，你们会非常有收获，赚钱能力堪称一流，千万要记住喜博爷的这个提醒。",
+      "content6": "水克火的女性，常常带有大姊头的风范，这个是正面的评价喔，妳们总是会站出来打抱不平，替弱势发声，跟那些伤害别人的人呛声。所以，水克火的女性通常不是那种文静感、娇滴滴的怯懦感，妳们就是一个女侠，会以行动来展现妳们对人的关怀，对于有需要帮忙的人，妳们一定会站出来相挺。所以，能够当妳的家人、朋友、同事，其实很幸福，因为真正需要人伸出援手的那一刻，妳们一定就是会帅气出场的那个救星，真的帅呆了。请珍惜妳们的善良与热心，这是现代社会很珍贵的特质，不要遗弃了这个特质，也很谢谢妳们一直发挥这个特质，带给了很多人温暖与帮助，真的谢谢妳们的存在。",
+      "content7": "你是喜博爷最忠实的战友，你兼具感性与理性，对于商场上的敏锐度非常的高，很能跟竞争对手战斗厮杀，做生意的能力一流。但是看似杀气腾腾的你，对于伙伴却又非常的照顾，常常被你拉拔支持，真的很感谢战场上有你这样的伙伴，祝你一定要事业成功赚大钱。",
+      "content8": "命格水克火的代表人物，台湾早期的领导人蒋经国先生就是这个命格，蒋经国先生非常的务实，看重实质面，不在意表面，不做粉饰太平的表面功夫，所以在当年台湾还很穷的年代，蒋经国先生推动十大建设，一举把台湾的公共基础重大建设完成，积极推动国际贸易，他的想法就是，把外国人的钱赚进来，这才是真的赚钱，所以他积极推动台湾的制造业，生产优质产品，然后卖到国外，把钱赚进台湾，台湾曾经是持有世界上最多的美金外汇，这都是水克火的积极务实展现，所以喜博爷才说，水克火的你们，经营生意头脑非常的好，千万不要浪费了这项特质。",
+      "content9": "你适合的工作有公关、助理、秘书、业务、营销、服务业、公益事业、买卖业、贸易业、信息计算机业、娱乐事业、金融交易、加工业。"
+    }
+  }
+}

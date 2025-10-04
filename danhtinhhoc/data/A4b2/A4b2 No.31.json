@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "31",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的帶動及管理功能很強，主動性很高，可以互相配合，把團隊帶動得很活耀，有生命力，很適合白手起家創業或是買賣業的企業主。唯一要注意的是，這個星座的人比較容易縱容屬下，造成屬下沒大沒小，失去倫理，最後無法控制。",
+      "content2": "這個星座的人，很容易得到有才幹的屬下，但也要重視賞罰分明，團體當中要有規範及紀律，不可因為自己的私心而特別偏愛獨厚某個屬下的行為，這些都會壞了規矩。這個星座的人，到了後運還是會比較忙碌，屬於需要勞心勞力的星座。",
+      "content3": "本命在男性者，太太相當的付出奉獻，不管在工作還是家庭上都很努力。",
+      "content4": "本命在女性者，先生很容易往主管職發展，並且容易得到得力屬下的幫忙。"
+    }
+  },
+  "vn": {
+    "a": "31",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng lãnh đạo và kích hoạt mạnh mẽ, rất chủ động, có thể hợp tác tốt với nhau, dẫn dắt nhóm một cách sinh động và đầy sức sống, rất phù hợp với những người khởi nghiệp tự thân hoặc chủ doanh nghiệp trong lĩnh vực mua bán. Tuy nhiên, điều cần lưu ý là họ có xu hướng quá nuông chiều cấp dưới, dẫn đến tình trạng mất kiểm soát, mất nề nếp, và cuối cùng không thể kiểm soát được nữa.",
+      "content2": "Người này dễ dàng có được cấp dưới tài năng nhưng cũng cần chú trọng đến việc phân biệt rõ ràng giữa thưởng phạt, phải có quy định và kỷ luật trong nhóm, không nên vì sở thích cá nhân mà ưu ái một vài nhân viên cụ thể, điều này có thể phá vỡ nguyên tắc. Họ vẫn sẽ bận rộn ở giai đoạn sau của đời mình, là một trong những cung luôn phải làm việc chăm chỉ.",
+      "content3": "Nếu là nam, vợ rất tận tụy và chăm chỉ, không chỉ trong công việc mà còn ở gia đình.",
+      "content4": "Nếu là nữ, chồng dễ dàng phát triển sự nghiệp quản lý và có được sự giúp đỡ từ những cấp dưới đáng tin cậy."
+    }
+  },
+  "sc": {
+    "a": "31",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的带动及管理功能很强，主动性很高，可以互相配合，把团队带动得很活耀，有生命力，很适合白手起家创业或是买卖业的企业主。唯一要注意的是，这个星座的人比较容易纵容属下，造成属下没大没小，失去伦理，最后无法控制。",
+      "content2": "这个星座的人，很容易得到有才干的属下，但也要重视赏罚分明，团体当中要有规范及纪律，不可因为自己的私心而特别偏爱独厚某个属下的行为，这些都会坏了规矩。这个星座的人，到了后运还是会比较忙碌，属于需要劳心劳力的星座。",
+      "content3": "本命在男性者，太太相当的付出奉献，不管在工作还是家庭上都很努力。",
+      "content4": "本命在女性者，先生很容易往主管职发展，并且容易得到得力属下的帮忙。"
+    }
+  }
+}

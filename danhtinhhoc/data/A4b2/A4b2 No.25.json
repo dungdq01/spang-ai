@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "25",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的儲存功能與堅守本位的功能非常的強，是一個相當穩定的庫星。所以這個星座的本命，非常適合在金融業、大型企業、家族事業、二代接班人，屬下除了穩定之外，還可以為組織帶來非常多的資源，是一個很容易在組織內部形成團結及穩定的星座。唯獨要注意的是，本命也需要具有相當的領導及管理能力，否則空有屬下豐富的資源，自己不會操作及應用，屬下功能難以發揮。",
+      "content2": "這個星座的人，在後運時期要著重在守成，不可以躁進、太過的積極。寧可穩定中求發展，也不要太過的追求機會，而讓自己陷入過多的風險當中。",
+      "content3": "本命在男性者，太太的財庫很旺，很適合從事金融理財的工作，很適合儲蓄及穩健投資。",
+      "content4": "本命在女性者，先生很容易承接到工作與地位，成為接班人。"
+    }
+  },
+  "vn": {
+    "a": "25",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này có khả năng lưu trữ và bảo vệ rất mạnh, rất ổn định, là một cung tốt cho các ngân hàng, doanh nghiệp lớn, doanh nghiệp gia đình, và người thừa kế. Ngoài sự ổn định, họ còn có thể mang lại nhiều tài nguyên cho tổ chức, dễ dàng tạo ra sự ổn định và đoàn kết trong tổ chức. Tuy nhiên, cần lưu ý rằng người này cũng cần có kỹ năng lãnh đạo và quản lý tốt, nếu không khó có thể tận dụng triệt để nguồn lực mà họ có.",
+      "content2": "Trong giai đoạn sau này, người này nên tập trung vào việc giữ vững thành quả, không nên quá vội vàng hoặc quá năng nổ. Nên ưu tiên sự ổn định hơn là mạo hiểm không cần thiết, tránh rơi vào tình trạng rủi ro không đáng có.",
+      "content3": "Nếu là nam giới, vợ có khả năng tài chính tốt, thích hợp làm việc trong lĩnh vực tài chính và đầu tư ổn định.",
+      "content4": "Nếu là nữ giới, chồng dễ dàng nhận được công việc và vị trí, thường là người kế nghiệp."
+    }
+  },
+  "sc": {
+    "a": "25",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的储存功能与坚守本位的功能非常的强，是一个相当稳定的库星。所以这个星座的本命，非常适合在金融业、大型企业、家族事业、二代接班人，属下除了稳定之外，还可以为组织带来非常多的资源，是一个很容易在组织内部形成团结及稳定的星座。唯独要注意的是，本命也需要具有相当的领导及管理能力，否则空有属下丰富的资源，自己不会操作及应用，属下功能难以发挥。",
+      "content2": "这个星座的人，在后运时期要着重在守成，不可以躁进、太过的积极。宁可稳定中求发展，也不要太过的追求机会，而让自己陷入过多的风险当中。",
+      "content3": "本命在男性者，太太的财库很旺，很适合从事金融理财的工作，很适合储蓄及稳健投资。",
+      "content4": "本命在女性者，先生很容易承接到工作与地位，成为接班人。"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "tc": {
+    "a": "無主星",
+    "b": "五鬼星 難發揮 用其他命格補足",
+    "c": "五鬼困泥沼，繞道自有路",
+    "content": {
+      "content1": "這個星座雖然是屬於五鬼星，腦筋靈活，生意敏銳度高，但是功能較難以發揮，穩定性也比較低，所以這個星座一般人難以啟動，建議以命格中其他的優勢與長處來發揮即可，不需拘泥與此星座的功能。"
+    }
+  },
+  "vn": {
+    "a": "Ngôi sao Vô Chủ",
+    "b": "Ngôi sao Ngũ Quỷ, khó phát huy, sử dụng các ngôi sao khác bổ trợ",
+    "c": "Ngũ quỷ lầm lũi, đường vòng tự tìm lối",
+    "content": {
+      "content1": "Mặc dù thuộc về Ngũ Quỷ, ngôi sao này linh hoạt, nhạy bén trong kinh doanh nhưng khả năng phát huy không cao và tính ổn định cũng thấp. Vì vậy, người thuộc ngôi sao này thường khó khởi động, nên sử dụng các ưu điểm và điểm mạnh khác trong mệnh lý để phát huy, không cần câu nệ vào chức năng của ngôi sao này."
+    }
+  },
+  "sc": {
+    "a": "无主星",
+    "b": "五鬼星 难发挥 用其他命格补足",
+    "c": "五鬼困泥沼，绕道自有路",
+    "content": {
+      "content1": "这个星座虽然是属于五鬼星，脑筋灵活，生意敏锐度高，但是功能较难以发挥，稳定性也比较低，所以这个星座一般人难以启动，建议以命格中其他的优势与长处来发挥即可，不需拘泥与此星座的功能。"
+    }
+  }
+}

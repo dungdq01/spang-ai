@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "18",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人，屬下的專業功能很強，是經營事業的實力派高手，自主性高、可以獨立作戰，但是因為屬下的企圖心強、戰鬥力高，所以本命被篡位、取而代之的可能性也比較高，或是屬下自行外部創業。因此這個星座的人，領導屬下必須有更高的智慧及技巧，否則很容易成功，也很容易翻船。",
+      "content2": "這個星座的人，本命後運著重在制度管理，讓組織有一套內部發展的完善系統，讓驍勇善戰的屬下，可以在這套內部系統中自由的發展、成長、得到相應的報酬，如此一來後運相當的穩固，不怕人才的出走或是獨立門戶。",
+      "content3": "本命在男性者，太太的自主性高、獨立性強，甚至可以自己去創業。",
+      "content4": "本命在女性者，先生的事業心強，經營能力高，可以是開拓事業的創業者，也可以在大企業中一路上升。"
+    }
+  },
+  "vn": {
+    "a": "18",
+    "b": "Dưới quyền:",
+    "c": "Vận mệnh sau này:",
+    "d": "Ảnh hưởng của bạn đời:",
+    "content": {
+      "content1": "Người thuộc cung này, nhân viên dưới quyền có kỹ năng chuyên môn mạnh, là người giỏi trong việc quản lý kinh doanh, có tính tự lập cao, có thể hoạt động độc lập. Tuy nhiên, do nhân viên có tham vọng và sức chiến đấu cao, người có cung này có thể bị lật đổ, hoặc nhân viên có thể tự mình khởi nghiệp. Do đó, người thuộc cung này cần có trí tuệ và kỹ năng lãnh đạo cao hơn để không bị thất bại trong khi vẫn thành công.",
+      "content2": "Người thuộc cung này cần tập trung vào quản lý hệ thống, phát triển một hệ thống hoàn chỉnh cho tổ chức, cho phép các nhân viên dũng cảm và giỏi phát triển tự do trong hệ thống, từ đó có thể đảm bảo một tương lai ổn định, không sợ mất nhân tài hay họ tự mở công ty riêng.",
+      "content3": "Nếu là nam, vợ có tính tự lập cao, độc lập, có thể tự mình khởi nghiệp.",
+      "content4": "Nếu là nữ, chồng có sự nghiệp vững vàng, kỹ năng kinh doanh tốt, có thể là người khởi nghiệp hoặc thăng tiến nhanh trong công ty lớn."
+    }
+  },
+  "sc": {
+    "a": "18",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人，属下的专业功能很强，是经营事业的实力派高手，自主性高、可以独立作战，但是因为属下的企图心强、战斗力高，所以本命被篡位、取而代之的可能性也比较高，或是属下自行外部创业。因此这个星座的人，领导属下必须有更高的智慧及技巧，否则很容易成功，也很容易翻船。",
+      "content2": "这个星座的人，本命后运着重在制度管理，让组织有一套内部发展的完善系统，让骁勇善战的属下，可以在这套内部系统中自由的发展、成长、得到相应的报酬，如此一来后运相当的稳固，不怕人才的出走或是独立门户。",
+      "content3": "本命在男性者，太太的自主性高、独立性强，甚至可以自己去创业。",
+      "content4": "本命在女性者，先生的事业心强，经营能力高，可以是开拓事业的创业者，也可以在大企业中一路上升。"
+    }
+  }
+}

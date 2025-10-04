@@ -1,0 +1,38 @@
+{
+  "tc": {
+    "a": "10",
+    "b": "屬下",
+    "c": "本命後運",
+    "d": "配偶感應",
+    "content": {
+      "content1": "這個星座的人屬下的功能多屬於謀略、思考型、聽從命令形的人，雖然穩定性高，但是屬下的依附性、隱藏性也比較高，所以子女宮在這個星座的人，本命需要比較強勢、有主導性，才能夠帶動屬下發揮功能，如果本命也較被動、不會領導，則屬下會變成空有想法，光說不練，欠缺執行力，組織鬆散。",
+      "content2": "這個星座的人，後運要偏重與人合作，才有辦法守住基業甚至擴大事業。暗財也較旺盛，所以可以留意一些轉投資事業帶來的額外收入。",
+      "content3": "本命為男性者，太太可以因為先生而帶來更旺的運勢。",
+      "content4": "本命為女性者，先生從事幕僚工作以及被提拔的機運很強，較容易在大企業上班。"
+    }
+  },
+  "vn": {
+    "a": "10",
+    "b": "Dưới quyền",
+    "c": "Vận mệnh sau này",
+    "d": "Cảm nhận về bạn đời",
+    "content": {
+      "content1": "Người của cung này thường có chức năng lập kế hoạch, suy nghĩ, và tuân theo mệnh lệnh. Mặc dù họ có tính ổn định cao, nhưng tính phụ thuộc và tính ẩn dật của họ cũng khá lớn. Do đó, người của cung này cần một bản mệnh mạnh mẽ, có tính lãnh đạo để có thể dẫn dắt những người dưới quyền phát huy hết khả năng. Nếu người này cũng bị động và không giỏi lãnh đạo, những người dưới quyền sẽ chỉ nói mà không hành động, thiếu đi sức mạnh thực thi, làm cho tổ chức trở nên lỏng lẻo.",
+      "content2": "Người của cung này cần tập trung vào việc hợp tác với người khác để có thể giữ vững và mở rộng sự nghiệp. Họ cũng có tiềm năng tài chính ẩn giấu, do đó có thể chú ý đến một số cơ hội đầu tư mang lại thu nhập bổ sung.",
+      "content3": "Nếu là nam giới, vợ có thể mang lại vận may mắn hơn nhờ chồng.",
+      "content4": "Nếu là nữ giới, chồng làm việc ở vị trí hậu trường và có cơ hội được thăng chức mạnh mẽ, dễ dàng làm việc ở công ty lớn."
+    }
+  },
+  "sc": {
+    "a": "10",
+    "b": "属下",
+    "c": "本命后运",
+    "d": "配偶感应",
+    "content": {
+      "content1": "这个星座的人属下的功能多属于谋略、思考型、听从命令形的人，虽然稳定性高，但是属下的依附性、隐藏性也比较高，所以子女宫在这个星座的人，本命需要比较强势、有主导性，才能够带动属下发挥功能，如果本命也较被动、不会领导，则属下会变成空有想法，光说不练，欠缺执行力，组织松散。",
+      "content2": "这个星座的人，后运要偏重与人合作，才有办法守住基业甚至扩大事业。暗财也较旺盛，所以可以留意一些转投资事业带来的额外收入。",
+      "content3": "本命为男性者，太太可以因为先生而带来更旺的运势。",
+      "content4": "本命为女性者，先生从事幕僚工作以及被提拔的机运很强，较容易在大企业上班。"
+    }
+  }
+}
